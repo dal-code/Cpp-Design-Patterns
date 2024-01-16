@@ -52,7 +52,7 @@
 + [Bridge](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Bridge)
 ### 对象创建:
 + [Factory Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Factory%20Method)
-+ [Factory(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Factory-Pattern)
++ [Factory Pattern](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory-Pattern)
 + [Bridge](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Bridge)
 + [Abstract Factory](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
 + [Prototype](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Prototype)
