@@ -1,4 +1,4 @@
-# Factory Method
+# Factory Method  工厂方法模式
 
 ## 动机（Motivation）
 + 在软件系统中，经常面临着创建对象的工作；由于需求的变化，需要创建的对象的具体类型经常变化。
