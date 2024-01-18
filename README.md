@@ -52,7 +52,7 @@
 + [Decorator(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Decorator-Pattern)
 + [Bridge](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Bridge)
 ### 对象创建:
-+ [Factory Method（方法工厂模式）](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory%20Method)
++ [Simple Factory Pattern（简单工厂模式）](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory%20Pattern)
 + [Factory Method Pattern（工厂方法模式）](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory-Method-Pattern)
 + [Bridge](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Bridge)
 + [Abstract Factory](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
