@@ -18,6 +18,7 @@
 2. 开放封闭原则（OCP）
   + 对扩展开放，对更改封闭。
   + 类模块应该是可扩展的，但是不可修改。
+  + 面对需求，程序的改动是通过增加新代码进行的，而不是更改现有的代码。
 3. 单一职责原则（SRP）
   + 一个类应该仅有一个引起它变化的原因。
   + 变化的方向隐含着类的责任。
@@ -40,44 +41,44 @@
 
 ## 从封装变化角度对模式分类
 ### 组件协作：
-+ [Template Method](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Template%20Method)
-+ [Template-Pattern(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Template-Pattern)
-+ [Observer/Event](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Observer)
-+ [Observer(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Observer-Pattern)
-+ [Strategy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy)
-+ [Strategy(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Strategy-Pattern)
++ [Template Method](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Template%20Method)
++ [Template-Pattern(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Template-Pattern)
++ [Observer/Event](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Observer)
++ [Observer(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Observer-Pattern)
++ [Strategy](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Strategy)
++ [Strategy(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Strategy-Pattern)
 ### 单一职责：
-+ [Decorator](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Decorator)
-+ [Decorator(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Decorator-Pattern)
-+ [Bridge](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Bridge)
++ [Decorator](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Decorator)
++ [Decorator(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Decorator-Pattern)
++ [Bridge](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Bridge)
 ### 对象创建:
 + [Factory Method（方法工厂模式）](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory%20Method)
 + [Factory Pattern（简单工厂模式）](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory-Pattern)
-+ [Bridge](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Bridge)
-+ [Abstract Factory](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
-+ [Prototype](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Prototype)
-+ [Builder](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Builder)
++ [Bridge](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Bridge)
++ [Abstract Factory](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
++ [Prototype](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Prototype)
++ [Builder](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Builder)
 ### 对象性能：
-+ [Singleton](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Singleton)
-+ [Flyweight(享元模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Flyweight)
++ [Singleton](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Singleton)
++ [Flyweight(享元模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Flyweight)
 ### 接口隔离:
-+ [Façade(门面模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Facade)
-+ [Proxy](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Proxy)
-+ [Mediator(中介者)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Mediator)
-+ [Adapter](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Adapter)
++ [Façade(门面模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Facade)
++ [Proxy](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Proxy)
++ [Mediator(中介者)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Mediator)
++ [Adapter](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Adapter)
 ### 状态变化：
-+ [Memento(备忘录)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Memento)
-+ [State](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/State)
++ [Memento(备忘录)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Memento)
++ [State](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/State)
 ### 数据结构：
-+ [Composite(组合模式)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Composite)
-+ [Iterator](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Iterator)
-+ [Chain of Resposibility(职责链)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Chain%20of%20Resposibility)
++ [Composite(组合模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Composite)
++ [Iterator](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Iterator)
++ [Chain of Resposibility(职责链)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Chain%20of%20Resposibility)
 ### 行为变化：
-+ [Command](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Command)
-+ [Command(Head-First版)](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Command-Pattern)
-+ [Visitor](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Visitor)
++ [Command](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Command)
++ [Command(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Command-Pattern)
++ [Visitor](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Visitor)
 ### 领域问题：
-+ [Interpreter](https://github.com/liu-jianhao/Cpp-Design-Patterns/tree/master/Interpreter)
++ [Interpreter](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Interpreter)
 
 
 ## 总结
