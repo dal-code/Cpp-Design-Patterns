@@ -48,18 +48,18 @@
 + [Strategy](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Strategy)
 + [Strategy(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Strategy-Pattern)
 ### 单一职责：
-+ [Decorator](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Decorator)
++ [Decorator](装饰器模式)(https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Decorator)
 + [Decorator(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Decorator-Pattern)
 + [Bridge](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Bridge)
 ### 对象创建:
-+ [Simple Factory Pattern（简单工厂模式）](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory%20Pattern)
-+ [Factory Method Pattern（工厂方法模式）](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory-Method-Pattern)
-+ [Bridge](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Bridge)
-+ [Abstract Factory](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
-+ [Prototype](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Prototype)
-+ [Builder](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Builder)
++ [Simple Factory Pattern(简单工厂模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory%20Pattern)
++ [Factory Method Pattern(工厂方法模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory-Method-Pattern)
++ [Abstract Factory](抽象工厂模式)(https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
++ [Builder](建造者模式)(https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Builder)
++ [Bridge](桥接模式)(https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Bridge)
++ [Prototype](原型模式)(https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Prototype)
 ### 对象性能：
-+ [Singleton](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Singleton)
++ [Singleton](单例模式)(https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Singleton)
 + [Flyweight(享元模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Flyweight)
 ### 接口隔离:
 + [Façade(门面模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Facade)
@@ -74,11 +74,29 @@
 + [Iterator](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Iterator)
 + [Chain of Resposibility(职责链)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Chain%20of%20Resposibility)
 ### 行为变化：
-+ [Command](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Command)
++ [Command](命令模式)(https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Command)
 + [Command(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Command-Pattern)
-+ [Visitor](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Visitor)
++ [Visitor]()(https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Visitor)
 ### 领域问题：
-+ [Interpreter](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Interpreter)
++ [Interpreter](解释器模式)(https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Interpreter)
+
+## 设计模式分类
+### 创建型模式
++ [Simple Factory Pattern(简单工厂模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory%20Pattern)
++ [Factory Method Pattern(工厂方法模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory-Method-Pattern)
++ [Abstract Factory(抽象工厂模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Abstract%20Factory)
++ [Builder(建造者模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Builder)
++ [Prototype(原型模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Prototype)
++ [Singleton(单例模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Singleton)
+### 结构型模式
++ [Adapter(适配器模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Adapter)
++ [Bridge(桥接模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Bridge)
++ [Composite(组合模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Composite)
++ [Decorator(装饰器模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Decorator-Pattern)
++ [Façade(外观模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Facade)
++ [Flyweight(享元模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Flyweight)
++ [Proxy(代理模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/master/Proxy)
+### 行为型模式
 
 
 ## 总结
