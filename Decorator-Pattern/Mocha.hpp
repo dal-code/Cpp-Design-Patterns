@@ -12,7 +12,7 @@ public:
     }
 
     double cost() {
-        return .20 + beverage->cost();
+        return 0.20 + beverage->cost();
     }
 };
 

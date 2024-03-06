@@ -10,7 +10,7 @@ public:
     }
 
     double cost() {
-        return .89;
+        return 0.89;
     }
 };
 
