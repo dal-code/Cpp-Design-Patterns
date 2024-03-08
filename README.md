@@ -81,14 +81,14 @@
 + [Interpreter](解释器模式)(https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Interpreter)
 
 ## 设计模式分类
-### 创建型模式
+### 创建型模式 :主要解决如何灵活创建对象或者类的问题
 + [Simple Factory Pattern(简单工厂模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory%20Pattern)
 + [Factory Method Pattern(工厂方法模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Factory-Method-Pattern)
 + [Abstract Factory(抽象工厂模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Abstract%20Factory)
 + [Builder(建造者模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Builder)
 + [Prototype(原型模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Prototype)
 + [Singleton(单例模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Singleton)
-### 结构型模式
+### 结构型模式 :结构型设计模式主要用于将类或对象进行组合从而构建灵活而高效的结构
 + [Adapter(适配器模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Adapter)
 + [Bridge(桥接模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Bridge)
 + [Composite(组合模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Composite)
@@ -96,29 +96,30 @@
 + [Façade(外观模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Facade)
 + [Flyweight(享元模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Flyweight)
 + [Proxy(代理模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Proxy)
-### 行为型模式
+### 行为型模式 :行为型设计模式主要解决类或者对象之间互相通信的问题
 + [Chain of Resposibility(职责链)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Chain%20of%20Resposibility)
 + [Command(命令模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Command)
 + [Interpreter(解释器模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Interpreter)
-+ [Iterator](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Iterator)
++ [Iterator(迭代器模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Iterator)
 + [Mediator(中介者)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Mediator)
 + [Memento(备忘录)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Memento)
-+ [Observer/Event](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Observer)
-+ [Observer(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Observer-Pattern)
-+ [State](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/State)
++ [Observer/Event](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Observer-event)
++ [Observer(观察者模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Observer-Pattern)
++ [State(状态模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/State)
 + [Strategy](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Strategy)
 + [Strategy(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Strategy-Pattern)
 + [Template Method](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Template%20Method)
 + [Template-Pattern(Head-First版)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Template-Pattern)
++ [Visitor(访问者模式)](https://github.com/dal-code/Cpp-Design-Patterns/tree/main/Visitor)
 
 
 ## 总结
 ### 现代较少用的模式
 + Builder
-+ Mediator
-+ Memento
-+ Iterator
++ Mediator(多对多的外观模式，没看)
++ Memento(记录对象的状态，过时了)
++ Iterator(对于cpp来说过时了)
 + Chain of Resposibility
 + Command
 + Visitor
-+ Interpreter
++ Interpreter(用的不多，没看)

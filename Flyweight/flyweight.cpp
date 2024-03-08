@@ -79,7 +79,7 @@ int main() {
     // 获取共享享元对象,flyweight是基类，这里获得的是具体的享元对象
     Flyweight* flyweight1 = factory.getFlyweight("shared_state", true);
     Flyweight* flyweight2 = factory.getFlyweight("shared_state", true);
-    Flyweight* flyweight3 = factory.getFlyweight("shared_state", true);
+    Flyweight* flyweight3 = factory.getFlyweight("shared_state3", true);
 
     // 调用共享享元对象的操作方法，并传入外部状态
     flyweight1->operation("external_state1");
